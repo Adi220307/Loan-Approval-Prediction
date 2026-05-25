@@ -81,26 +81,6 @@ The models were evaluated using:
 
 ---
 
-## Visualizations
-
-### Confusion Matrix
-
-![Confusion Matrix](confusion_matrix.png)
-
----
-
-### ROC Curve
-
-![ROC Curve](roc_curve.png)
-
----
-
-### Feature Importance
-
-![Feature Importance](feature_importance.png)
-
----
-
 ## Results
 
 Among all models, the Random Forest Classifier achieved the best performance with higher accuracy and ROC-AUC score.
